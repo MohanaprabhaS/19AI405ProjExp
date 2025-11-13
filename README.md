@@ -81,6 +81,6 @@ else:
 
 ## Result:
 
-Thus,the python program to develop the Sudoku Solver From Scratch is
+Thus,the python program to develop the Sudoku Solver From Scratch.
 
 
